@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration</title>
+</head>
+<body>
+	<!-- use GET, not POST -->
+	<form method="GET">
+		Name: <input type="text" name="vardas"><br>
+		Last Name: <input type="text" name="pavardė"><br>
+		Email: <input type="email" name="email" required><br>
+		Password: <input type="password" name="slaptazodis" minlength="6"><br>
+		Birthday: <input type="date" name="gimtadienis"><br>
+		Gender: <br><input type="radio" name="gender" value="male" checked>Male<br>
+			       <input type="radio" name="gender" value="female">Female<br>
+		Pets: <br><input type="checkbox" name="cat"> Cat<br>
+					 <input type="checkbox" name="dog"> Dog<br>
+					 <input type="checkbox" name="snake"> Snake<br>
+					 <input type="checkbox" name="gold fish"> Gold fish<br>
+		Car Model: <br>
+		<select name="cars">
+			<option value="Honda">Honda</option>	
+			<option value="VW">VW</option>
+			<option value="Toyota">Toyota</option>
+			<option value="Lexus">Lexus</option>
+			<option value="Kia">Kia</option>
+		</select><br>
+		<input type="submit" value="Submit">
+		<input type="reset" value="Reset">
+	</form>
+	<a href="index.html"><h4>Back</h4></a>
+</body>
+</html>
+

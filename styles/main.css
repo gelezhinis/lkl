@@ -1,0 +1,97 @@
+#zal {
+	background-color: #2d8659;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: 600;
+	color: white;
+	width: 215px;
+}
+
+#ryt {
+	background-color: #1a1a1a;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: 600;
+	color: #e60000;
+	width: 191px;
+}
+
+#nep {
+	background-color: #006bb3;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: 600;
+	color: white;
+	width: 232px;
+}
+
+#lie {
+	background-color: #990033;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: 600;
+	color: white;
+	width: 248px;
+}
+
+#juv {
+	background-color: #b30000;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: 600;
+	color: white;
+	width: 226px;
+}
+
+#dzu {
+	background-color: #00802b;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: 600;
+	color: white;
+	width: 215px;
+}
+
+#pz {
+	background-color: #003399;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: 600;
+	color: #e6e600;
+	width: 302px;
+}
+
+#sky {
+	background-color: #132639;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: 600;
+	color: white;
+	width: 206px;
+}
+
+#sia {
+	background-color: #ffc34d;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: 600;
+	color: black;
+	width: 210px;
+}
+
+#nev {
+	background-color: #006633;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: 600;
+	color: #ffd11a;
+	width: 210px;
+}
+
+#yellow {
+	color: yellow;
+}
+
+#green {
+	color: green;
+}
